@@ -1,0 +1,11 @@
+name: EffectX
+version: 1.0
+main: com.xiaomian124.effectplugin.EffectPlugin
+api-version: 1.21
+author: xiaomian124
+description: 服务器场景特效插件，提供铁砧雨、全场冻结、昼夜变更、飞天猪等特效
+
+commands:
+  effectx:
+    description: 触发场景特效
+    usage: /effectx <anvil|freeze|daynight|lightning|pig>
